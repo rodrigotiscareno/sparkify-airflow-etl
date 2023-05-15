@@ -9,6 +9,7 @@ The project involved processing data stored in S3 - JSON logs about user activit
 The project relied on two datasets stored in S3, which included log data and song data:
 
 Log data: s3://udacity-dend/log_data
+
 Song data: s3://udacity-dend/song_data
 
 ## Custom Operators
